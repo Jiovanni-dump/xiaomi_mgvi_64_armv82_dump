@@ -1,0 +1,2 @@
+create mireuse_a
+linear 0       33554432  /dev/block/by-name/ufs_extension 0
