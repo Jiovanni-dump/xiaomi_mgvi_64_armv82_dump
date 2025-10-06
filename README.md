@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.015 OS2.0.215.0.WNNMIXM release-keys
+- manufacturer: alps
+- platform: common
+- codename: mgvi_64_armv82
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.015
+- incremental: OS2.0.215.0.WNNMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/hal_mgvi_64_armv82_mt6989_global/mgvi_64_armv82:14/UP1A.231005.007/OS2.0.215.0.WNNMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-16-BP2A.250605.015-OS2.0.215.0.WNNMIXM-release-keys
+- repo: xiaomi_mgvi_64_armv82_dump
